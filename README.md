@@ -41,8 +41,8 @@ https://linktr.ee/Mishan_Savalia" target="blank"><img align="center" src="https:
    </a>
    <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Light.svg" alt="php" width="50" height="35"/> 
    </a>
-
 </ul>
+
 - **Database**
 <ul>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="mysql" width="50" height="35"/> </a>
