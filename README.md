@@ -8,8 +8,9 @@
 <a href="https://x.com/SavaliaMs" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg" alt="SavaliaMs" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mishan-savalia" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="mishan-savalia" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22141348/mishan" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/StackOverflow-Dark.svg" alt="mishan" height="30" width="40" /></a>
+<a href="
+https://linktr.ee/Mishan_Savalia" target="blank"><img align="center" src="https://private-user-images.githubusercontent.com/46965900/318528640-71e4b7b2-62fd-494a-ba45-c691a265cb2e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjU5NjQxNzAsIm5iZiI6MTcyNTk2Mzg3MCwicGF0aCI6Ii80Njk2NTkwMC8zMTg1Mjg2NDAtNzFlNGI3YjItNjJmZC00OTRhLWJhNDUtYzY5MWEyNjVjYjJlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTEwVDEwMjQzMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTBlYTEwOTI0NzA0MjliNWU5ZDNhNjk1MzVmN2UxMTExOWJhYjRjM2ZiMWQxZmViYTFlMGJjMGViNjQzYmJiYTkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.dHFwdx9rDElq9N-S7lLErqoChfHiSdsupKSFxAgRgwg" alt="mishan" height="30" width="40" /></a>
 </p>
-
 ## About Me 🚀
 🎓 I am an computer engineering early professional and highly motivated and interested in Web Development and solving problems for the people and building something which they need with the help of Technology and Applications. I believe that an undeterred will can overcome any kind of bug in code and obstacle in life.
 <br/>
@@ -38,8 +39,10 @@
 <ul>
    <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" alt="php" width="50" height="35"/> 
    </a>
-</ul>
+   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Light.svg" alt="php" width="50" height="35"/> 
+   </a>
 
+</ul>
 - **Database**
 <ul>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="mysql" width="50" height="35"/> </a>
