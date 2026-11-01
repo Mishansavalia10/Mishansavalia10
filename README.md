@@ -1,62 +1,28 @@
-<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="29" height="29" />,
- I'm <a href="https://linkedin.com/in/mishan-savalia" target="_blank" >Mishan Savalia</a></h1>
-<h3 align="center">A Passionate Web Developer.</h3>
+# Hi, I'm Mishan Savalia 👋
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+**Full-stack developer building web apps with PHP, Laravel, JavaScript and MySQL.**
 
-<a href="https://x.com/SavaliaMs" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg" alt="SavaliaMs" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mishan-savalia" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="mishan-savalia" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22141348/mishan" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/StackOverflow-Dark.svg" alt="mishan" height="30" width="40" /></a>
-<a href="https://linktr.ee/Mishan_Savalia" target="blank"><img align="center" src="https://private-user-images.githubusercontent.com/46965900/318528640-71e4b7b2-62fd-494a-ba45-c691a265cb2e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjU5NjQxNzAsIm5iZiI6MTcyNTk2Mzg3MCwicGF0aCI6Ii80Njk2NTkwMC8zMTg1Mjg2NDAtNzFlNGI3YjItNjJmZC00OTRhLWJhNDUtYzY5MWEyNjVjYjJlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTEwVDEwMjQzMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTBlYTEwOTI0NzA0MjliNWU5ZDNhNjk1MzVmN2UxMTExOWJhYjRjM2ZiMWQxZmViYTFlMGJjMGViNjQzYmJiYTkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.dHFwdx9rDElq9N-S7lLErqoChfHiSdsupKSFxAgRgwg" alt="mishan" height="30" width="40" /></a>
-</p>
+[Portfolio](https://mishansavalia10.github.io/Mishan_Portfolio/) · [LinkedIn](https://linkedin.com/in/mishan-savalia) · [Stack Overflow](https://stackoverflow.com/users/22141348/mishan) · [X](https://x.com/SavaliaMs)
 
-## About Me 🚀
-🎓 I am an computer engineering early professional and highly motivated and interested in Web Development and solving problems for the people and building something which they need with the help of Technology and Applications. I believe that an undeterred will can overcome any kind of bug in code and obstacle in life.
-<br/>
+## About me
 
-## Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" style="max-width: 100%;">
-- **Programming Languages**
-<ul>
-<a target="_blank" rel="noopener noreferrer" href="">
-   <img height="35" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript"/>
-</a>
-</ul>
+I like building software for a problem I can point at, then making it simple enough that people actually use it.
 
-- **Frontend Development**
-<ul>
-<a target="_blank" rel="noopener noreferrer" href="">
-   <img height="35" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html"/>
-</a>
-<a target="_blank" rel="noopener noreferrer" href="">
-   <img height="35" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css"/>
-</a>
- <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="bootstrap" width="50" height="35"/> </a>
-</ul>
+- 💼 **Previously:** Software Developer on the IMS team at IIT Gandhinagar (2023–2024), building and maintaining ERP features for student admissions and staff recruitment with PHP, Laravel and MySQL.
+- 🎓 **Education:** B.E. in Computer Science and Engineering, GTU (2023).
+- 🏆 **Hackathon:** top 5 of 16 teams in the Smart India Hackathon 2022 internal round, with a drone detection system.
 
+## Repositories and commits
 
-- **Backend Development**
-<ul>
-   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" alt="php" width="50" height="35"/> 
-   </a>
-   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Light.svg" alt="php" width="50" height="35"/> 
-   </a>
-</ul>
+![Public repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMishansavalia10&query=%24.public_repos&label=public%20repos)
 
-- **Database**
-<ul>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="mysql" width="50" height="35"/> </a>
-</ul>
+| Repository | What it does | Built with | Commits | Last commit |
+| --- | --- | --- | --- | --- |
+| [**Mishan_Portfolio**](https://github.com/Mishansavalia10/Mishan_Portfolio) | My personal portfolio website. | HTML, CSS, JavaScript | ![Commits](https://img.shields.io/github/commit-activity/t/Mishansavalia10/Mishan_Portfolio) | ![Last commit](https://img.shields.io/github/last-commit/Mishansavalia10/Mishan_Portfolio) |
+| [**AssistMate**](https://github.com/Mishansavalia10/AssistMate) | Chatbot that auto-replies to users' messages. | PHP, Laravel | ![Commits](https://img.shields.io/github/commit-activity/t/Mishansavalia10/AssistMate) | ![Last commit](https://img.shields.io/github/last-commit/Mishansavalia10/AssistMate) |
+| [**Rent_calculator**](https://github.com/Mishansavalia10/Rent_calculator) | Splits rent, food and electricity costs between flatmates. | Python | ![Commits](https://img.shields.io/github/commit-activity/t/Mishansavalia10/Rent_calculator) | ![Last commit](https://img.shields.io/github/last-commit/Mishansavalia10/Rent_calculator) |
+| [**rockpaperscissor**](https://github.com/Mishansavalia10/rockpaperscissor) | Rock, paper, scissors against the computer. | Python | ![Commits](https://img.shields.io/github/commit-activity/t/Mishansavalia10/rockpaperscissor) | ![Last commit](https://img.shields.io/github/last-commit/Mishansavalia10/rockpaperscissor) |
 
- - **Tools**
-<ul>
-  <a target="_blank" rel="noopener noreferrer" href="">
-   <img height="35" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="postman"/>  
-</a>
-</ul>
+## Tech stack
 
-## My Github Status 🦸
-<a target="_blank" rel="noopener noreferrer" href="#">
-   <img src="https://github-readme-stats.vercel.app/api?username=Mishansavalia10&show_icons=true&theme=default">
-</a>
-<div align="center" dir="auto"><h3 dir="auto">Show some ❤️ by starring some of the repositories!</h3></div>
+[![Tech stack](https://skillicons.dev/icons?i=js,html,css,php,laravel,mysql,python,bootstrap,jquery,postman,cypress,git)](https://skillicons.dev)
