@@ -16,9 +16,9 @@ I like building software for a problem I can point at, then making it simple eno
 
 ![Public repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMishansavalia10&query=%24.public_repos&label=public%20repos)
 
-| Repository | What it does | Built with | Commits | Last commit |
+| Repository | What it does | Built with 
 | --- | --- | --- | --- | --- |
-| [**Mishan_Portfolio**](https://github.com/Mishansavalia10/Mishan_Portfolio) | My personal portfolio website. | HTML, CSS, JavaScript | ![Commits](https://img.shields.io/github/commit-activity/t/Mishansavalia10/Mishan_Portfolio) | ![Last commit](https://img.shields.io/github/last-commit/Mishansavalia10/Mishan_Portfolio) |
+| [**Mishan_Portfolio**](https://github.com/Mishansavalia10/Mishan_Portfolio) | My personal portfolio website. | HTML, CSS, JavaScript 
 | [**AssistMate**](https://github.com/Mishansavalia10/AssistMate) | Chatbot that auto-replies to users' messages. | PHP, Laravel 
 | [**Rent_calculator**](https://github.com/Mishansavalia10/Rent_calculator) | Splits rent, food and electricity costs between flatmates. | Python 
 | [**rockpaperscissor**](https://github.com/Mishansavalia10/rockpaperscissor) | Rock, paper, scissors against the computer. | Python 
